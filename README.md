@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c505464547a859e0445ec9e4a52b651a936ec662483553a780d5c5ec76baaeff
-size 188
+## This Repository help you to understand how to use `MobileNetV2` Pre-trained model and `OpenCV` library to capture Video in real-time to detect whether a person is wearing Mask or Not.
+
+# To Run in your local machine
+
+```bash
+Run Face_mask_detection_using_mobilenet.ipynb 
+```
+

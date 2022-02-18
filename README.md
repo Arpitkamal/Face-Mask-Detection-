@@ -2,7 +2,6 @@
 
 # To Run in your local machine
 
-```bash
-Run Face_mask_detection_using_mobilenet.ipynb 
-```
+Run `Face_mask_detection_using_mobilenet.ipynb` File 
+
 
